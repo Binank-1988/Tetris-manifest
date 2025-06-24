@@ -31,6 +31,6 @@ spec:
   - protocol: TCP
     port: 80                 # Expose port 80
     targetPort: 4000
-    nodePort: 30299
+    nodePort: 30290
   type: NodePort
 
