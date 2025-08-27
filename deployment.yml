@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: umang6121/tetrisv1:latest
+        image: sevenajay/tetris77:latest
         ports:
         - containerPort: 4000  # Use port 3000
 
