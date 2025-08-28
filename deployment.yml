@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: binank2000/tetrisv1:latest
+        image: binank2000/tetrisv10:latest
         ports:
         - containerPort: 4000  # Use port 3000
 
